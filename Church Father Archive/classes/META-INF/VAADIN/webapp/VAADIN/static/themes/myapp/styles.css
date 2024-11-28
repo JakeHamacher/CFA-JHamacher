@@ -1,0 +1,12 @@
+button {
+    --vaadin-button-height: 100px
+}
+
+html {
+    background-color: aliceblue;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}

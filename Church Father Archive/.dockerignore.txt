@@ -1,0 +1,5 @@
+Dockerfile
+README.txt
+icon.png
+myapp-1.0-SNAPSHOT.jar.original
+"Church Father Archive.bat"

@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/jakeh/Desktop/Senior Project/Senior Project/my-app/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/jakeh/Desktop/Senior Project/Senior Project/my-app/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/jakeh/Desktop/Senior Project/Senior Project/my-app/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\jakeh\\Desktop\\Senior Project\\Senior Project\\my-app\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\jakeh\\Desktop\\Senior Project\\Senior Project\\my-app\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/jakeh/Desktop/Senior Project/Senior Project/my-app/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/jakeh/Desktop/Senior Project/Senior Project/my-app/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/jakeh/Desktop/Senior Project/Senior Project/my-app/frontend/generated/jar-resources",
+  "themeName": "myapp",
+  "clientServiceWorkerSource": "C:\\Users\\jakeh\\Desktop\\Senior Project\\Senior Project\\my-app\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

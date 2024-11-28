@@ -1,0 +1,4 @@
+com\example\model\Document.class
+com\example\application\Application.class
+com\example\dao\DocumentDAO.class
+com\example\application\views\empty\EmptyView.class
