@@ -35,3 +35,4 @@ This project was created for academic purposes, but contributions are welcome! I
 ## Acknowledgements
 
 - **Nave Security**: For conducting external penetration testing and stress testing of the application to ensure its security and reliability.
+- **CCEL.org**: For providing the downloadable files of Church Father writings
