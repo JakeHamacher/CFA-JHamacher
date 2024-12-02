@@ -18,7 +18,7 @@ The application is designed to be deployed using **Docker** for containerization
 
 ## How to Access the Web Application
 The ChurchFatherArchive web application is deployed and accessible at the following URL:
-[Church Father Archive](https://churchfathers-924345373748.us-east4.run.app/)
+[fathersofthefaith.org](https://fathersofthefaith.org/)
 
 Simply navigate to the link in your web browser to begin using the application.
 
